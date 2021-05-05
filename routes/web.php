@@ -24,4 +24,6 @@ Route::group(['namespace' => 'User'], function() {
     Route::get('/dangnhapdangky', 'DangNhapDangKyController@index')->name('dangnhapdangky');
     Route::get('/giohang', 'GioHangController@index')->name('giohang');
     Route::get('/thanhtoan', 'ThanhToanController@index')->name('thanhtoan');
+    Route::get('/gioithieu', 'GioiThieuController@index')->name('gioithieu');
+    Route::get('/lienhe', 'LienHeController@index')->name('lienhe');
 });

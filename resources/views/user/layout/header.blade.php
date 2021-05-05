@@ -3,15 +3,9 @@
             <div class="rowx">
                 <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs top_content_">
                     <ul class="contact_top">
-                        <li class="li_contact"><span><span class="ti ti-headphone-alt"></span> Hotline: <a href="callto:0368003626">0368003626</a></span>
-                        </li>
-                        <li class="li_contact">
-                            <span>
-                                <span class="ti ti-heart"></span>
-                                <a href="/apps/iwish">
-                                    Yêu thích
-                                </a>
-                            </span>
+
+                        <li class="li_contact"><span><span class="ti ti-headphone-alt"></span> Hotline: <a href="tel:0368003626">0368003626</a></span>
+
                         </li>
                     </ul>
                 </div>
@@ -302,7 +296,9 @@
     
     
                                 <li class=" nav-item nav-items ">
-                                    <a href="gioi-thieu" class="nav-link">
+
+                                    <a href="gioithieu" class="nav-link">
+
                                         Giới thiệu </a>
                                 </li>
     
@@ -472,7 +468,8 @@
     
     
                                 <li class=" nav-item nav-items ">
-                                    <a href="lien-he" class="nav-link">
+
+
                                         Liên hệ </a>
                                 </li>
     

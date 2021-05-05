@@ -8,527 +8,61 @@
     <div class="row">
         <div class="col-xs-12 a-left">
             <ul class="breadcrumb">					
-                <li class="home">
-                    <a itemprop="url" href="trangchu><span >Trang chủ</span></a>						
-
+            <li class="home">
+                    <a itemprop="url" href="trangchu" ><span >Trang chủ</span></a>						
                     <span class="mr_lr"> <i class="fa fa-angle-right"></i> </span>
                 </li>
                 
                 <li >
-                    <a itemprop="url" href="tin-tuc"><span >Tin tức</span></a>	
-
+                    <a itemprop="url" href="gioithieu"><span >Giới Thiệu Shop SMARKET</span></a>	
                     <span class="mr_lr"> <i class="fa fa-angle-right"></i> </span>
                 </li>
-                <li><strong><span >Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc</span></strong></li>
-                
+
+                <li >
+                <h2 style="color: #81d742;text-align: center" class="vc_custom_heading">CHÂN THÀNH CẢM ƠN QUÝ KHÁCH HÀNG ĐÃ QUAN TÂM ĐẾN SMARKET<p></p>
+                    <p>"Nâng niu hành trang - Lan tỏa giá trị"</p><br></h2>
+                    
+                    <img src="{{asset('assets/images/htch1.jpg')}}" alt="htch"><br><br>
+                    
+
+                        <div class="article_detail">
+
+                            <p>Hệ thống shop online&nbsp;<strong>SMARKET</strong>&nbsp;chuyên thiết kế và kinh doanh các mặt hàng Balo, Túi Xách, Vali cho mọi đối tượng người dùng, là cấu nối cho mọi người cả nước tiếp cận với xu hướng thời trang, Balo, Túi Xách, Chất Lượng trên thế giới. "Chúng tôi mang đến sự khác biệt!" - Cùng với xu hướng thời trang của thế giới&nbsp;<strong>Hệ thống Shop SMARKET</strong>&nbsp;đã và đang không ngừng đổi mới để mang đến cho tất cả mọi người mẫu Balo, Túi Xách, Vali thời trang độc đáo, mới lạ, chất lượng tốt, để tiên phong cho một phong cách thời trang Balo, Túi Xách, Vali mới.</p>
+
+                            <p>Vì thế&nbsp;<strong>SMARKET</strong>&nbsp;đang dần trở thành một cái tên quen thuộc với tất cả các bạn trẻ với những chiếc Balo, Túi Xách, Vali phong cách thời trang hoàn toàn mới lạ, khẳng định cá tính của chính mình. Đặc biệt vẫn là chất lượng cực tốt của sản phẩm đem lại cho người dùng ♥</p>
+
+                            <p>Thành lập hơn 3 năm với hệ thống hơn 5 cửa hàng trong Tp. hcm và Hà Nội.</p>
+
+                            <p><em>Sự hài lòng của các bạn chính là mục tiêu phấn đấu của chúng tôi ♥.</em></p>
+                            <br>
+
+                            <img src="{{asset('assets/images/htch2.jpg')}}" alt="htch">
+                            <br>     
+                </li>
+
+                <li >
+                    <h2 style="color: #81d742;text-align: left" class="vc_custom_heading">CHÍNH SÁCH CHẤT LƯỢNG CỦA SMARKET</h2>
+                        <div class="wpb_text_column wpb_content_element ">
+                            <div class="wpb_wrapper">
+                            <h2>Những cam kết&nbsp; vàng SMARKET dành cho khách hàng.</h2>
+                            <p>Với chính sách chất lượng được thiết lập và tuân thủ trong quá trình hoạt động, SMARKET luôn suy nghĩ và hướng tới cung cấp những sản phẩm, dịch vụ tốt nhất cho khách hàng.</p>
+                            <p>Những cam kết SMARKET luôn kết dành cho khách hàng như sau:</p>
+                            <p>1- Chúng tôi cam kết mang lại sự chuyên nghiệp, thuận lợi nhất cho khách hàng từ việc đặt hàng đến khi nhận sản phẩm.</p>
+                            <p>2- Hoàn tiền 100% nếu khách hàng không hài lòng về chất lượng sản phẩm.</p>
+                            <p>3- Hỗ trợ tư vấn Online 24/7</p>
+                            <p>4- Sản phẩm bảo hành 6 tháng – 1 năm</p>
+                            <p>5- Giao hàng đúng hẹn như đã thỏa thuận với khách hàng.</p>
+                            <p>6- Kiểm tra hàng thoái mái trước khi thanh toán.</p>
+                            <p>7- Sản phẩm sau cùng được đóng gói đẹp, giao hàng tận nơi, giao hàng toàn quốc theo yêu cầu của khách hàng.<p><br>
+                        </div>
+                    </div>
+                </li>
             </ul>
         </div>
     </div>
 </div>
-</section>
-<div class="container article-wraper bg_white">
-<div class="row row_article">
-    <div class="wrap_border col-lg-12">
-        <span class="bordered"></span>
-    </div>
-    
-    <aside id="aside_article" class="left left-content col-lg-3 col-md-3 col-sm-12 col-xs-12">
-        
-<div class="wol_product">
-<div class="dear_title">
-    <h2 class="title_head_ border_content2">
-        <a href="frontpage" title="Sản phẩm bán chạy">
-            Sản phẩm bán chạy</a>
-    </h2>
-</div>
-<div class="clearfix"></div>
-<div class="product_col_dets row">
-    <div class="wrap_owl_topsale col-lg-12 col-md-12 col-xs-12">
-        <div  class="owl_col_details owl-carousel owl-theme " data-nav="true" data-lg-items="1" data-md-items="1" data-height="false" data-xs-items="1" data-sm-items="1" data-margin="15">
 
-            
-
-
-<div class="item">
-
-<div class="hot_sale_product">
-    <div class="item-img-horizontal">
-        
-        <a href="/balo-laplop-solo-pro-arc-black" class="product-image" title="Balo laplop Solo Pro ARC Black">
-            <img src="//bizweb.dktcdn.net/thumb/compact/100/286/794/products/1-4-2.jpg?v=1517304826530" alt="Balo laplop Solo Pro ARC Black">
-        </a>
-        
-    </div>
-    <div class="item-info-horizontal">
-        <h3 class="item-name text2line">
-            <a href="/balo-laplop-solo-pro-arc-black" title="Balo laplop Solo Pro ARC Black">
-                Balo laplop Solo Pro ARC Black
-            </a>
-        </h3>
-        
-        
-        <div class="price-box clearfix">			
-            
-            <span class="price product-price-old">
-                950.000₫			
-            </span>		
-                
-            <span class="price product-price">860.000₫</span>
-        </div>		
-        
-        
-    </div>
-</div>
-
-
-            
-            
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="hot_sale_product">
-    <div class="item-img-horizontal">
-        
-        <a href="/balo-mikkor-irvin-charcoal-orange" class="product-image" title="Balo Mikkor Irvin Charcoal/Orange">
-            <img src="//bizweb.dktcdn.net/thumb/compact/100/286/794/products/1-3.jpg?v=1517327927920" alt="Balo Mikkor Irvin Charcoal/Orange">
-        </a>
-        
-    </div>
-    <div class="item-info-horizontal">
-        <h3 class="item-name text2line">
-            <a href="/balo-mikkor-irvin-charcoal-orange" title="Balo Mikkor Irvin Charcoal/Orange">
-                Balo Mikkor Irvin Charcoal/Orange
-            </a>
-        </h3>
-        
-        
-        <div class="price-box clearfix">			
-            
-            <span class="price product-price-old">
-                1.200.000₫			
-            </span>		
-                
-            <span class="price product-price">750.000₫</span>
-        </div>		
-        
-        
-    </div>
-</div>
-
-
-<div class="hot_sale_product">
-    <div class="item-img-horizontal">
-        
-        <a href="/vali-ricardo-spectrum-20-inch-5-tac-den" class="product-image" title="Vali Ricardo Spectrum 20 inch 5 tấc - Đen">
-            <img src="//bizweb.dktcdn.net/thumb/compact/100/286/794/products/1-d759a515-8ee4-447f-a51b-9be521c66a3a.jpg?v=1517328908890" alt="Vali Ricardo Spectrum 20 inch 5 tấc - Đen">
-        </a>
-        
-    </div>
-    <div class="item-info-horizontal">
-        <h3 class="item-name text2line">
-            <a href="/vali-ricardo-spectrum-20-inch-5-tac-den" title="Vali Ricardo Spectrum 20 inch 5 tấc - Đen">
-                Vali Ricardo Spectrum 20 inch 5 tấc - Đen
-            </a>
-        </h3>
-        
-        
-        <div class="price-box clearfix">			
-            
-            <span class="price product-price-old">
-                4.000.000₫			
-            </span>		
-                
-            <span class="price product-price">3.700.000₫</span>
-        </div>		
-        
-        
-    </div>
-</div>
-
-
-
-<div class="hot_sale_product">
-    <div class="item-img-horizontal">
-        
-        <a href="/giay-vai-converse-3" class="product-image" title="Giày converse One Star Leather + Tapestry">
-            <img src="//bizweb.dktcdn.net/thumb/compact/100/286/794/products/3min2aeb1bce236543fcad76752f82.jpg?v=1516862308167" alt="Giày converse One Star Leather + Tapestry">
-        </a>
-        
-    </div>
-    <div class="item-info-horizontal">
-        <h3 class="item-name text2line">
-            <a href="/giay-vai-converse-3" title="Giày converse One Star Leather + Tapestry">
-                Giày converse One Star Leather + Tapestry
-            </a>
-        </h3>
-        
-        
-        <div class="price-box clearfix">			
-            
-            <span class="price product-price-old">
-                800.000₫			
-            </span>		
-                
-            <span class="price product-price">700.000₫</span>
-        </div>		
-        
-        
-    </div>
-</div>
-
-</div>
-
-
-<!-- ADD DIV -->
-
-
-            
-        </div>
-    </div>
-</div>
-</div>
-
-
-<div class="aside-item">
-<div>
-    <div class="page_title page__ col-lg-12 col-md-12 col-sm-12 no-padding">
-        <div class="dear_title">
-            <h2 class="title_head_ border_content2">
-                <a href="tin-tuc" title="Tin tức nổi bật">
-                    Tin tức nổi bật</a>
-            </h2>
-        </div>
-    </div>
-
-    <div class="list-blogs">
-        <div class="blog_list_item">
-            
-            <article class="blog-item blog-item-list ">
-                <div class="blog-item-thumbnail img1" onclick="window.location.href='/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my-lan-ngoc';">
-                    <a href="/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my-lan-ngoc">
                         
-                        <picture>
-                            <source media="(max-width: 480px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667">
-                            <source media="(min-width: 481px) and (max-width: 767px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667">
-                            <source media="(min-width: 768px) and (max-width: 1023px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667">
-                            <source media="(min-width: 1024px) and (max-width: 1199px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667">
-                            <source media="(min-width: 1200px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667">
-                            <img src="//bizweb.dktcdn.net/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667" style="max-width:100%;" class="img-responsive" alt="Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc">
-                        </picture>
-                        
-                    </a>
-                </div>
-                <div class="ct_list_item">
-                    <h3 class="blog-item-name"><a class="text2line" href="/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my-lan-ngoc" title="Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc">Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc</a></h3>
-                    <span class="post_">
-                        <span><span class="ti-time"></span> 05, 01 2018</span>
-                    </span>
-                </div>
-            </article>
-            
-            <article class="blog-item blog-item-list ">
-                <div class="blog-item-thumbnail img1" onclick="window.location.href='/dinh-cao-phong-do-anh-trai-mua-tuoi-tu-tuan-showbiz-viet-la-day';">
-                    <a href="/dinh-cao-phong-do-anh-trai-mua-tuoi-tu-tuan-showbiz-viet-la-day">
-                        
-                        <picture>
-                            <source media="(max-width: 480px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/2.jpg?v=1517332206540">
-                            <source media="(min-width: 481px) and (max-width: 767px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/2.jpg?v=1517332206540">
-                            <source media="(min-width: 768px) and (max-width: 1023px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/2.jpg?v=1517332206540">
-                            <source media="(min-width: 1024px) and (max-width: 1199px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/2.jpg?v=1517332206540">
-                            <source media="(min-width: 1200px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/2.jpg?v=1517332206540">
-                            <img src="//bizweb.dktcdn.net/100/286/794/articles/2.jpg?v=1517332206540" style="max-width:100%;" class="img-responsive" alt="Đỉnh cao phong độ 'anh trai mưa' tuổi tứ tuần showbiz Việt là đây!">
-                        </picture>
-                        
-                    </a>
-                </div>
-                <div class="ct_list_item">
-                    <h3 class="blog-item-name"><a class="text2line" href="/dinh-cao-phong-do-anh-trai-mua-tuoi-tu-tuan-showbiz-viet-la-day" title="Đỉnh cao phong độ 'anh trai mưa' tuổi tứ tuần showbiz Việt là đây!">Đỉnh cao phong độ 'anh trai mưa' tuổi tứ tuần showbiz Việt là đây!</a></h3>
-                    <span class="post_">
-                        <span><span class="ti-time"></span> 02, 01 2018</span>
-                    </span>
-                </div>
-            </article>
-            
-            <article class="blog-item blog-item-list ">
-                <div class="blog-item-thumbnail img1" onclick="window.location.href='/nhung-da-nu-khien-phai-may-rau-khong-the-coi-thuong';">
-                    <a href="/nhung-da-nu-khien-phai-may-rau-khong-the-coi-thuong">
-                        
-                        <picture>
-                            <source media="(max-width: 480px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/1.jpg?v=1517332209743">
-                            <source media="(min-width: 481px) and (max-width: 767px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/1.jpg?v=1517332209743">
-                            <source media="(min-width: 768px) and (max-width: 1023px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/1.jpg?v=1517332209743">
-                            <source media="(min-width: 1024px) and (max-width: 1199px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/1.jpg?v=1517332209743">
-                            <source media="(min-width: 1200px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/1.jpg?v=1517332209743">
-                            <img src="//bizweb.dktcdn.net/100/286/794/articles/1.jpg?v=1517332209743" style="max-width:100%;" class="img-responsive" alt="Những đả nữ khiến phái mày râu không thể coi thường">
-                        </picture>
-                        
-                    </a>
-                </div>
-                <div class="ct_list_item">
-                    <h3 class="blog-item-name"><a class="text2line" href="/nhung-da-nu-khien-phai-may-rau-khong-the-coi-thuong" title="Những đả nữ khiến phái mày râu không thể coi thường">Những đả nữ khiến phái mày râu không thể coi thường</a></h3>
-                    <span class="post_">
-                        <span><span class="ti-time"></span> 02, 01 2018</span>
-                    </span>
-                </div>
-            </article>
-            
-            <article class="blog-item blog-item-list ">
-                <div class="blog-item-thumbnail img1" onclick="window.location.href='/from-now-we-are-certified-web-to-basedu';">
-                    <a href="/from-now-we-are-certified-web-to-basedu">
-                        
-                        <picture>
-                            <source media="(max-width: 480px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/3.jpg?v=1514878833690">
-                            <source media="(min-width: 481px) and (max-width: 767px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/3.jpg?v=1514878833690">
-                            <source media="(min-width: 768px) and (max-width: 1023px)" srcset="//bizweb.dktcdn.net/thumb/large/100/286/794/articles/3.jpg?v=1514878833690">
-                            <source media="(min-width: 1024px) and (max-width: 1199px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/3.jpg?v=1514878833690">
-                            <source media="(min-width: 1200px)" srcset="//bizweb.dktcdn.net/thumb/medium/100/286/794/articles/3.jpg?v=1514878833690">
-                            <img src="//bizweb.dktcdn.net/100/286/794/articles/3.jpg?v=1514878833690" style="max-width:100%;" class="img-responsive" alt="From Now We Are Certified Web To Basedu">
-                        </picture>
-                        
-                    </a>
-                </div>
-                <div class="ct_list_item">
-                    <h3 class="blog-item-name"><a class="text2line" href="/from-now-we-are-certified-web-to-basedu" title="From Now We Are Certified Web To Basedu">From Now We Are Certified Web To Basedu</a></h3>
-                    <span class="post_">
-                        <span><span class="ti-time"></span> 02, 01 2018</span>
-                    </span>
-                </div>
-            </article>
-            
-            <span class="view_more_blog"><a href="tin-tuc" title="Xem thêm Tin tức nổi bật">Xem thêm</a></span>
-        </div>
-    </div>
-</div>
-</div>
-
-
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 dear_title padding-0 margin-bottom-20">
-<div class="banner">
-    <div class="">
-        <a href="#" title="#" class="banner">
-            <img src="//bizweb.dktcdn.net/100/286/794/themes/637857/assets/banner_sidebar_collection.png?1618737291739" alt="#">
-        </a>
-    </div>
-</div>
-</div>
-
-
-    </aside>
-    
-    <section id="content_article_" class="right-content col-lg-9 col-md-9 col-sm-12 col-xs-12 ">
-        <article class="article-main" itemscope itemtype="http://schema.org/Article">
-            <meta itemprop="mainEntityOfPage" content="/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my-lan-ngoc">
-            <meta itemprop="description" content=" Juno ra mắt bộ sưu tập mới mang tên “Queens of Fashion” mang tính thời thượng và vô cùng phù hợp cho mùa cuối năm. Bên cạnh đó, hãng còn giảm 30% hóa đơn cho khách hàng thân thiết, cùng nhiều ưu đãi khác. ">
-            <meta itemprop="author" content="Ha Ly">
-            <meta itemprop="headline" content="Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc">
-            <meta itemprop="image" content="https://bizweb.dktcdn.net/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667">
-            <meta itemprop="datePublished" content="01/05/2018 14:29:00">
-            <meta itemprop="dateModified" content="01/05/2018 14:29:24">
-            <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                <div class="hidden" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-                    <img src="//bizweb.dktcdn.net/100/286/794/themes/637857/assets/logo.png?1618737291739" alt="Zmarket"/>
-                    <meta itemprop="url" content="https://bizweb.dktcdn.net/100/286/794/themes/637857/assets/logo.png?1618737291739">
-                    <meta itemprop="width" content="400"> 
-                    <meta itemprop="height" content="60"> 
-                </div>
-                <meta itemprop="name" content="Zmarket">
-            </div>
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 content_ar">
-                    <div class="page_title hidden">
-                        <p class="title_page_h1">Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc</p>
-                    </div>
-                    <div class="image_first margin-top-10">
-                        
-                        <img src="//bizweb.dktcdn.net/100/286/794/articles/sdvfdbfdsbfdv.jpg?v=1517332203667" alt="Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc">
-                        
-                    </div>
-                
-                    <h1 class="title-head-article"><a href="/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my-lan-ngoc" itemprop="url">Juno ra mắt bộ sưu tập mùa lễ hội, kết hợp cùng Diễm My - Lan Ngọc</a></h1>
-                    <div class="meta">
-                        05 Tháng 01 2018 | Đăng bởi: Ha Ly
-                    </div>
-                    <div class="article-details">
-                        <div class="article-content">
-                            <div class="rte">
-                                <p>Juno ra mắt bộ sưu tập mới mang tên “Queens of Fashion” mang tính thời thượng và vô cùng phù hợp cho mùa cuối năm. Bên cạnh đó, hãng còn giảm 30% hóa đơn cho khách hàng thân thiết, cùng nhiều ưu đãi khác.</p>
-<center>&nbsp;</center>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 1" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-1-1513679724-963-width660height495.jpg" style="width: 500px; height: 375px;" /></p>
-
-<p>&nbsp;</p>
-
-<p>Sau đợt khuyến mãi khủng “200.000 đôi giày giá 200.000 đồng", Juno, thương hiệu giày Việt sở hữu 67 cửa hàng trên toàn quốc, tiếp tục đem đến bất ngờ cho các tín đồ thời trang.</p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 2" height="375" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-2-1513679724-604-width660height495.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
-
-<p>Juno công bố bộ sưu tập mới mang tên “Queens of Fashion". Bộ sưu tập có nhiều thiết kế kiểu cách, hiện đại, phom dáng mang tính thời trang, xu hướng cho mùa lễ hội năm 2017-2018.</p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 3" height="667" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-3-1513679724-882-width660height880.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
-
-<p>Ba tông màu chủ đạo trong bộ sưu tập bao gồm Vàng đồng, Đỏ Sagria và Bạc, hoàn toàn phù hợp với nhu cầu “nổi bật’ và “sang chảnh” tại các sự kiện, tiệc tùng cuối năm của các quý cô. Phái đẹp nhất định phải sở hữu vài đôi giày, túi xác của Juno vào mùa cuối năm này.</p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 4" height="375" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-4-1513679724-792-width660height495.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
-
-<p>Sự kết hợp giữa chất liệu sequin, satin và metallic cùng chi tiết đinh tán, phụ liệu phản quang giúp hai người đẹp 9X thêm phần sang trọng, đẳng cấp. Thương hiệu giày Việt kỳ vọng loạt chất liệu satin mới mẻ này sẽ làm hài lòng phái đẹp Việt, trở thành xu hướng.</p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 5" height="375" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-5-1513679724-116-width660height495.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
-
-<p>Phom dáng cao gót, phần thân giày đa dạng kiểu dáng được các nhà thiết kế chăm chút nhằm phù hợp cho các buổi tiệc tùng, lễ hội. Về túi, ấn tượng hơn là các chiếc túi, ví hình bầu thường thấy là các phụ kiện dạng hộp, nhiều kích thước và nhấn vào chi tiết.</p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 6" height="667" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-6-1513679724-505-width660height880.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
-
-<p>Với bộ ảnh lần này, Lan Ngọc hoá thân vào hình tượng nữ tính, trẻ trung. Nữ diễn viên chia sẻ:<em>“Tôi may mắn khi được làm việc cùng Juno trong hai chiến dịch của thương hiệu giày này. Đến hiện tại, tôi cảm thấy thương hiệu này đã có những sự thay đổi và phát triển rất lớn kể cả sản phẩm lẫn chính sách bán hàng. Do đó, cứ hễ có khuyến mãi hay bộ sưu tập mới là Lan Ngọc liền có mặt tại cửa hàng để lựa chọn”.</em></p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 7" height="667" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-7-1513679724-830-width660height880.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
-
-<p>Trong khi đó, Diễm My sở hữu mái tóc ngắn cá tính trong bộ ảnh. Cô cho biết:<em>&nbsp;“Tôi cảm thấy Juno là một thương hiệu chất lượng tốt, kiểu dáng thời thượng có cá tính và giá cả rất là hợp lý, vừa túi tiền. Mùa cuối năm nay, tôi không phải đau đầu để lựa chọn một đôi giày phù hợp mà cảm thấy thoái mái hơn vì có thể mua cùng lúc hai đến ba đôi bởi mức giá hợp lí mà nó mang đến”.</em></p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img align="center" alt="juno ra mat bo suu tap mua le hoi, ket hop cung diem my - lan ngoc - 8" height="667" onclick="return openNewImage(this, '')" src="https://eva-img.24hstatic.com/upload/4-2017/images/2017-12-19/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my---lan-ngoc-8-1513679724-792-width660height880.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
-
-<p>Nếu là khách hàng thân thiết của Juno, khi đến mua sắm tại Juno vào mùa cuối năm này, cụ thể từ 12-31/12, bạn sẽ nhận ngay ưu đãi giảm ngay 30% trên tổng hóa đơn.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tags_share col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <div class="share_row">
-                        <div class="tag_article col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                            
-                        </div>
-                        
-                        
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                            <div class="addthis_inline_share_toolbox share_add">
-                                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58589c2252fc2da4"></script>
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                 
-                <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12">
-                    
-
-                    <form accept-charset="utf-8" action="/posts/juno-ra-mat-bo-suu-tap-mua-le-hoi-ket-hop-cung-diem-my-lan-ngoc/comments" id="article_comments" method="post">
-<input name="FormType" type="hidden" value="article_comments" />
-<input name="utf8" type="hidden" value="true" /> 
-                    <div class="col-xs-12" style="padding:0px;">
-                        
-                        
-                        <p id="email2_error" style="padding: 0 15px;"></p>
-                    </div>
-
-                    <div class="fcm">
-                        <div class="form-coment margin-bottom-50">
-                            <div class="row">
-                                <div class="col-sm-12 col-xs-12 margin-bottom-5">
-                                    <h5 class="title-form-coment not_bold">Viết bình luận:</h5>
-                                </div>
-                                <fieldset class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <label class="hidden">Họ tên:</label>
-                                    <input type="text" class="form-control form-control-comment form-control-lg" placeholder="Họ tên:"  value="" name="Author" Required>
-                                </fieldset>
-                                <fieldset class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">	
-                                    <label class="hidden">Email:</label>
-                                    <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,63}$"  placeholder="Email:" data-validation="email" class="form-control form-control-comment form-control-lg" value=""  name="Email" Required>
-                                </fieldset>
-                                <fieldset class="form-group padding-bottom-0 margin-top-15 col-xs-12 col-sm-12 col-md-12">	
-                                    <label class="hidden">Nội dung:</label>
-                                    <textarea  class="form-comment-input form-control form-control-lg" placeholder="Nội dung:" id="comment" name="Body" rows="6" Required></textarea>
-                                </fieldset>
-                                <div class="col-sm-12 col-xs-12 margin-top-25">
-                                    <button type="submit" class="btn-45-no-radius">Gửi bình luận</button>
-                                </div>
-                            </div>
-                        </div> <!-- End form mail -->
-                    </div>
-                    </form>
-                </div>
-                
-                
-                
-            </div>				
-        </article>
-    </section>		
-    
-</div>
-</div>
-<div class="ab-module-article-mostview"></div>
-<input class="abbs-article-id" type="hidden" data-article-id="938218">
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -11,3 +11,5 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+resources/views/user/layout/footer.blade.php
+resources/views/user/layout/footer.blade.php

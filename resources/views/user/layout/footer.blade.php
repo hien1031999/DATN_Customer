@@ -8,15 +8,15 @@
                                 <h4 class="cliked hasclick"><span>Thông tin</span></h4>
                                 <ul class="list-menu toggle-mn" style="display:none;">
     
-                                    <li class="li_effect"><a href="index.blade.php">Trang chủ</a></li>
+                                    <li class="li_effect"><a href="trangchu">Trang chủ</a></li>
     
-                                    <li class="li_effect"><a href="/gioi-thieu">Giới thiệu</a></li>
+                                    <li class="li_effect"><a href="gioithieu">Giới thiệu</a></li>
     
-                                    <li class="li_effect"><a href="/collections/all">Sản phẩm</a></li>
+                                    <li class="li_effect"><a href="sanpham">Sản phẩm</a></li>
     
-                                    <li class="li_effect"><a href="archive_news.blade.php">Tin tức</a></li>
+                                    <li class="li_effect"><a href="tintuc">Tin tức</a></li>
     
-                                    <li class="li_effect"><a href="/lien-he">Liên hệ</a></li>
+
     
                                 </ul>
                             </div>
@@ -42,14 +42,15 @@
                                 <h4 class="cliked hasclick"><span>Liên hệ</span></h4>
                                 <ul class="list-menu menu_first">
                                     <li>
-                                        <span class="fa fa-home"></span> <span class="frist_"><span class="b_font"></span>Phòng 214, Chung cư B3, Phường Quan Hoa , Cầu Giấy, Hà Nội, Vietnam</span>
+
+                                        <span class="fa fa-home"></span> <span class="frist_"><span class="b_font"></span>Lầu 2, Chung cư B3, Phường Tân Thuận Đông, Quận 7, TP.HCM, Việt Nam</span>
                                     </li>
                                     <li>
-                                        <span class="fa fa-phone"></span><span class="frist_"><span class="b_font"><a href="tel:0902068068">0902068068</a></span></span>
+                                        <span class="fa fa-phone"></span><span class="frist_"><span class="b_font"><a href="tel:0368003626">0368003626</a></span></span>
                                     </li>
                                     <li>
-                                        <span class="fa fa-paper-plane"></span><span class="frist_"><span class="b_font"><a href="mailto:halymedia@gmail.com">halymedia@gmail.com</a> </span></span>
-                                    </li>
+                                        <span class="fa fa-paper-plane"></span><span class="frist_"><span class="b_font"><a href="mailto:nguynhuan123@gmail.com">nguynhuan123@gmail.com</a> </span></span>
+          </li>
     
                                 </ul>
                                 <div class="social_right">
@@ -83,19 +84,19 @@
     
                     <ul>
     
-                        <li><a href="index.blade.php">Trang chủ</a></li>
+                        <li><a href="trangchu">Trang chủ</a></li>
     
-                        <li><a href="/gioi-thieu">Giới thiệu</a></li>
+                        <li><a href="gioithieu">Giới thiệu</a></li>
     
-                        <li><a href="/collections/all">Sản phẩm</a></li>
+                        <li><a href="sanpham">Sản phẩm</a></li>
     
-                        <li><a href="archive_news.blade.php">Tin tức</a></li>
+                        <li><a href="tintuc">Tin tức</a></li>
     
-                        <li><a href="/lien-he">Liên hệ</a></li>
+                        <li><a href="lienhe">Liên hệ</a></li>
     
                     </ul>
     
-                    <p>Với hệ thống hơn 50 cửa hàng trên toàn quốc Zmarket mong muốn mang lại dịch vụ tiện ích nhất cho khách hàng với chi phí rẻ nhất. Cảm ơn quý khách hàng đã đồng hành cùng chúng tôi trong thời gian qua.</p>
+                    <p>Với hệ thống hơn 50 cửa hàng trên toàn quốc SMARKET mong muốn mang lại dịch vụ tiện ích nhất cho khách hàng với chi phí rẻ nhất. Cảm ơn quý khách hàng đã đồng hành cùng chúng tôi trong thời gian qua.</p>
     
     
                     <img src="//bizweb.dktcdn.net/100/286/794/themes/637857/assets/foo_bot_2.png?1618737291739" alt="Zmarket" />
