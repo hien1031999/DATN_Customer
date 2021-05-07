@@ -8,7 +8,7 @@
         <div class="col-xs-12 a-left">
             <ul class="breadcrumb">					
                 <li class="home">
-                    <a itemprop="url" href="trangchu" ><span >Trang chủ</span></a>						
+                    <a itemprop="url" href="/" ><span >Trang chủ</span></a>						
                     <span class="mr_lr"> <i class="fa fa-angle-right"></i> </span>
                 </li>
                 
@@ -59,72 +59,79 @@
 </div>
 </div>
 
-<section class="products-view products-view-grid collection_reponsive">
-    <div class="row">
+                <section class="products-view products-view-grid collection_reponsive">
+<div class="row">
+
         <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 product-col">
             <div class="item saler_item">
-                                
-                <div class="product-box">															
-                    <div class="product-thumbnail">
-                        
-                        <span class="sale_count">
-                            <span class="bf_">- 4% </span>
-                        </span>
-
-                        <a href="/giay-converse-star-collar-break" class="image_link display_flex" data-images="//bizweb.dktcdn.net/thumb/medium/100/286/794/products/13min9a0b67fc1d89427789067b4b5.jpg?v=1516862290637"  title="Giày Converse Star Collar Break">
-                            <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="//bizweb.dktcdn.net/thumb/medium/100/286/794/products/13min9a0b67fc1d89427789067b4b5.jpg?v=1516862290637" alt="giay-converse-star-collar-break"/>
-                        </a>
-
-                        <div class="product-action-grid clearfix">
-                            <form action="/cart/add" method="post" class="variants form-nut-grid" data-id="product-actions-9746938" enctype="multipart/form-data">
-                                <div>
-                                    <a title="xem nhanh" href="/giay-converse-star-collar-break" data-handle="giay-converse-star-collar-break" class="button_wh_40 btn_view right-to quick-view"><i class="fa fa-search"></i>
-                                        <span class="tooltips qv"><span>Xem nhanh</span></span>
-                                    </a>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-
-                    <div class="product-info">
-    
-                        <div class="reviews-product-list grid_reviews">
-                            <div class="bizweb-product-reviews-badge" data-id="9746938"></div>
-                        </div>
-    
-                        <h3 class="product-name"><a class="text2line" href="/giay-converse-star-collar-break" title="Giày Converse Star Collar Break">Giày Converse Star Collar Break</a></h3>
-
-                        <div class="price-box clearfix">			
-                            <span class="price product-price-old">
-                                500.000₫			
-                            </span>		
             
-                            <span class="price product-price">480.000₫</span>
-                    </div>		
+<div class="product-box">															
+<div class="product-thumbnail">
+    
+    <span class="sale_count"><span class="bf_">- 
+4% 
+</span></span>
     
     
-                    <div class="action__">
-                        
-                        <form action="/cart/add" method="post" class="variants form-nut-grid" data-id="product-actions-9746938" enctype="multipart/form-data">
-                            <div>
-                                
-                                <input class="hidden" type="hidden" name="variantId" value="15567640" />
-                                <button class="btn-cart cart_button_style  left-to" title="Chọn sản phẩm"  type="button" onclick="window.location.href='/giay-converse-star-collar-break'" >
-                                    <span class="ti-settings"></span>
-                                    Tuỳ chọn
-                                </button>
-                                
-                            </div>
-                        </form>
-                        
-                    </div>
 
-                </div>
-            </div>			
-        </div>
+    <a href="/giay-converse-star-collar-break" class="image_link display_flex" data-images="//bizweb.dktcdn.net/thumb/medium/100/286/794/products/13min9a0b67fc1d89427789067b4b5.jpg?v=1516862290637"  title="Giày Converse Star Collar Break">
+        
+        
+        <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="//bizweb.dktcdn.net/thumb/medium/100/286/794/products/13min9a0b67fc1d89427789067b4b5.jpg?v=1516862290637" alt="giay-converse-star-collar-break"/>
+        
+        
+    </a>
+    <div class="product-action-grid clearfix">
+        <form action="/cart/add" method="post" class="variants form-nut-grid" data-id="product-actions-9746938" enctype="multipart/form-data">
+            <div>
+                <a title="xem nhanh" href="/giay-converse-star-collar-break" data-handle="giay-converse-star-collar-break" class="button_wh_40 btn_view right-to quick-view"><i class="fa fa-search"></i>
+                    <span class="tooltips qv"><span>Xem nhanh</span></span>
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="product-info">
+    
+    <div class="reviews-product-list grid_reviews">
+        <div class="bizweb-product-reviews-badge" data-id="9746938"></div>
+    </div>
+    
+    <h3 class="product-name"><a class="text2line" href="/giay-converse-star-collar-break" title="Giày Converse Star Collar Break">Giày Converse Star Collar Break</a></h3>
+
+    
+    
+    <div class="price-box clearfix">			
+        
+        <span class="price product-price-old">
+            500.000₫			
+        </span>		
+            
+        <span class="price product-price">480.000₫</span>
     </div>		
-<!--End 1 sp  -->
+    
+    
+    <div class="action__">
+        
+        <form action="/cart/add" method="post" class="variants form-nut-grid" data-id="product-actions-9746938" enctype="multipart/form-data">
+            <div>
+                
+                <input class="hidden" type="hidden" name="variantId" value="15567640" />
+                <button class="btn-cart cart_button_style  left-to" title="Chọn sản phẩm"  type="button" onclick="window.location.href='/giay-converse-star-collar-break'" >
+                    <span class="ti-settings"></span>
+                    Tuỳ chọn
+                </button>
+                
+            </div>
+        </form>
+        
+    </div>
 
+</div>
+</div>			
+            </div>
+        </div>		
+        
         <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 product-col">
             <div class="item saler_item">
             

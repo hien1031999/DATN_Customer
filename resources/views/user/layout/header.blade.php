@@ -45,7 +45,7 @@
                                             <input type="search" name="query" value="" placeholder="Tìm kiếm sản phẩm... " class="input-group-field st-default-search-input search-text" autocomplete="off" required>
                                             <span class="input-group-btn">
                                                 <button class="btn icon-fallback-text">
-                                                    Tìm Kiếm
+                                                    Tìm kiếm
                                                 </button>
                                             </span>
                                         </form>
@@ -58,7 +58,11 @@
                                             <div class="wrap_log">
                                                 <span class="ti_login ti_ ti-user"></span>
                                                 <div class="log">
+    
+                                                    <a class="ww text-color" href="dangnhapdangky" title="Đăng ký">Đăng ký</a>
+                                                    <span class="or">hoặc</span>&nbsp;
                                                     <a class="text-color" href="dangnhapdangky" title="Đăng nhập">Đăng nhập</a>
+    
                                                 </div>
                                             </div>
                                         </div>
@@ -148,7 +152,7 @@
     
     
                                 <li class="nav_item lv1">
-                                    <a href="balo" title="Balo">Balo<i class="fa fa-angle-right"></i></a>
+                                    <a href="/balo" title="Balo">Balo<i class="fa fa-angle-right"></i></a>
     
                                     <ul class="ul_content_right_1">
     
@@ -215,7 +219,7 @@
     
     
                                 <li class="nav_item lv1">
-                                    <a href="vali" title="Vali">Vali<i class="fa fa-angle-right"></i></a>
+                                    <a href="/vali" title="Vali">Vali<i class="fa fa-angle-right"></i></a>
     
                                     <ul class="ul_content_right_1">
     
@@ -286,7 +290,7 @@
     
                                 <li class=" nav-item nav-items active ">
                                     <a href="trangchu" class="nav-link">
-                                        Trang Chủ </a>
+                                        Trang chủ </a>
                                 </li>
     
     
@@ -295,19 +299,19 @@
 
                                     <a href="gioithieu" class="nav-link">
 
-                                        Giới Thiệu </a>
+                                        Giới thiệu </a>
                                 </li>
     
     
     
                                 <li class="menu_hover nav-item nav-items ">
                                     <a href="sanpham" class="nav-link ">
-                                        Sản Phẩm <i class="fa fa-angle-down" data-toggle="dropdown"></i></a>
+                                        Sản phẩm <i class="fa fa-angle-down" data-toggle="dropdown"></i></a>
                                     <ul class="dropdown-menu border-box">
     
     
                                         <li class="dropdown-submenu nav-items nav-item-lv2">
-                                            <a class="nav-link" href="balo">Balo </a>
+                                            <a class="nav-link" href="/balo">Balo </a>
                                             <i class="fa fa-angle-right" data-toggle="dropdown"></i>
                                             <ul class="dropdown-menu border-box">
     
@@ -347,7 +351,7 @@
     
     
                                         <li class="dropdown-submenu nav-items nav-item-lv2">
-                                            <a class="nav-link" href="tuixach">Túi xách </a>
+                                            <a class="nav-link" href="/tui-xach-1">Túi xách </a>
                                             <i class="fa fa-angle-right" data-toggle="dropdown"></i>
                                             <ul class="dropdown-menu border-box">
     
@@ -387,7 +391,7 @@
     
     
                                         <li class="dropdown-submenu nav-items nav-item-lv2">
-                                            <a class="nav-link" href="vali">Vali </a>
+                                            <a class="nav-link" href="/vali">Vali </a>
                                             <i class="fa fa-angle-right" data-toggle="dropdown"></i>
                                             <ul class="dropdown-menu border-box">
     
@@ -420,7 +424,7 @@
                                             <ul class="dropdown-menu border-box">
     
                                                 <li class="nav-item-lv3">
-                                                    <a class="nav-link" href="tuixach">Túi xách mới</a>
+                                                    <a class="nav-link" href="/">Túi xách mới</a>
                                                 </li>
     
     
@@ -458,15 +462,15 @@
     
                                 <li class=" nav-item nav-items ">
                                     <a href="tintuc" class="nav-link">
-                                        Tin Tức </a>
+                                        Tin tức </a>
                                 </li>
     
     
     
                                 <li class=" nav-item nav-items ">
 
-                                <a href="lienhe" class="nav-link">
-                                        Liên Hệ </a>
+
+                                        Liên hệ </a>
                                 </li>
     
     
@@ -474,7 +478,7 @@
                         </div>
                     </nav>
                     <div class=" hidden-sm hidden-xs contact_phone_menu menu_index_phone">
-                        <a href="/collections/all">Đặc Biệt</a>
+                        <a href="/collections/all">Đặc biệt</a>
                         <a href="/collections/all">
                             Black Friday
     
