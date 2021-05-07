@@ -1,64 +1,62 @@
 @extends('master')
 @section('content')
 
-    <section class="bread-crumb clearfix">
-<span class="crumb-border"></span>
-<div class="container">
-    <div class="row">
-        <div class="col-xs-12 a-left">
-            <ul class="breadcrumb">					
-                <li class="home">
-                    <a itemprop="url" href="trangchu" ><span >Trang chủ</span></a>						
-                    <span class="mr_lr"> <i class="fa fa-angle-right"></i> </span>
-                </li>
-                
-                
-                <li><strong ><span >Tất cả sản phẩm</span></strong></li>
-                    
-                    
-            </ul>
+<section class="bread-crumb clearfix">
+    <span class="crumb-border"></span>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 a-left">
+                <ul class="breadcrumb">					
+                    <li class="home">
+                        <a itemprop="url" href="trangchu" ><span >Trang chủ</span></a>						
+                        <span class="mr_lr"> <i class="fa fa-angle-right"></i> </span>
+                    </li>
+
+                    <li><strong ><span >Tất cả Túi Xách</span></strong></li>  
+                </ul>
+            </div>
         </div>
     </div>
-</div>
 </section>  
 
 <div class="container margin-bottom-15 bg_white">
-<div class="wrp_border_collection">
-    <div class="row">
-        <section class="main_container collection collection_container col-lg-9 col-md-9 col-sm-12 col-lg-push-3 col-md-push-3">
-            <div class="page_title margin-top-5">
-                <h1 class="title_page_h1"><span>Tất cả sản phẩm</span> </h1>
-            </div>
-            
-            <div class="category-products products">
+    <div class="wrp_border_collection">
+        <div class="row">
+            <section class="main_container collection collection_container col-lg-9 col-md-9 col-sm-12 col-lg-push-3 col-md-push-3">
+                <div class="page_title margin-top-5">
+                    <h1 class="title_page_h1"><span>Tất cả Túi Xách</span> </h1>
+                </div>
+                
+                <div class="category-products products">
                     
                 <div class="sortPagiBar">
-<div class="srt">
-    <div class="wr_sort col-sm-12">
-        <div class="text-sm-right">
-            <div class="sortPagiBar sortpage text-sm-right">
-                <div id="sort-by">
-                    <label class="left hidden-xs">Sắp xếp: </label>
-                    <div class="border_sort">
-                        <select onChange="sortby(this.value)">
-                            <option class="valued" value="default">Mặc định</option>
-                            <option value="price-asc">Giá tăng dần</option>
-                            <option value="price-desc">Giá giảm dần</option>
-                            <option value="alpha-asc">Từ A-Z</option>
-                            <option value="alpha-desc">Từ Z-A</option>
-                            <option value="created-asc">Mới đến cũ</option>
-                            <option value="created-desc">Cũ đến mới</option>
-                        </select>
+                
+                    <div class="srt">
+                        <div class="wr_sort col-sm-12">
+                            <div class="text-sm-right">
+                                <div class="sortPagiBar sortpage text-sm-right">
+                                    <div id="sort-by">
+                                        <label class="left hidden-xs">Sắp xếp: </label>
+                                        <div class="border_sort">
+                                            <select onChange="sortby(this.value)">
+                                                <option class="valued" value="default">Mặc định</option>
+                                                <option value="price-asc">Giá tăng dần</option>
+                                                <option value="price-desc">Giá giảm dần</option>
+                                                <option value="alpha-asc">Từ A-Z</option>
+                                                <option value="alpha-desc">Từ Z-A</option>
+                                                <option value="created-asc">Mới đến cũ</option>
+                                                <option value="created-desc">Cũ đến mới</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
-            
-            
-        </div>
-    </div>
-</div>
 </div>
 
+<!-- San pham -->
 <section class="products-view products-view-grid collection_reponsive">
     <div class="row">
         <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 product-col">
@@ -125,10 +123,9 @@
     </div>		
 <!--End 1 sp  -->
 
-        <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 product-col">
-            <div class="item saler_item">
-            
 
+<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 product-col">
+<div class="item saler_item">
 <div class="product-box">															
 <div class="product-thumbnail">
     

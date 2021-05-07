@@ -26,4 +26,11 @@ Route::group(['namespace' => 'User'], function() {
     Route::get('/thanhtoan', 'ThanhToanController@index')->name('thanhtoan');
     Route::get('/gioithieu', 'GioiThieuController@index')->name('gioithieu');
     Route::get('/lienhe', 'LienHeController@index')->name('lienhe');
+
+    // Danh muc
+    Route::get('/balo', 'DanhMucController@baloIndex')->name('balo');
+    Route::get('/tuixach', 'DanhMucController@tuixachIndex')->name('balo');
+    Route::get('/vali', 'DanhMucController@valiIndex')->name('vali');
+
+
 });
