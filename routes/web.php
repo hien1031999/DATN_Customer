@@ -31,6 +31,8 @@ Route::group(['namespace' => 'User'], function() {
     Route::get('/balo', 'DanhMucController@baloIndex')->name('balo');
     Route::get('/tuixach', 'DanhMucController@tuixachIndex')->name('balo');
     Route::get('/vali', 'DanhMucController@valiIndex')->name('vali');
-
-
+    Route::get('/xemthem', 'DanhMucController@xemthemIndex')->name('xemthem');
+    Route::get('/sanphamkhuyenmai', 'DanhMucController@sanphamkhuyenmaiIndex')->name('sanphamkhuyenmai');
+    Route::get('/sanphammoi', 'DanhMucController@sanphammoiIndex')->name('sanphammoi');
+    Route::get('/sanphamnoibat', 'DanhMucController@sanphamnoibatIndex')->name('sanphamnoibat');
 });

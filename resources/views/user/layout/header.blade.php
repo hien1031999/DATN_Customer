@@ -182,7 +182,7 @@
     
     
                                 <li class="nav_item lv1">
-                                    <a href="/tui-xach-1" title="Túi xách">Túi xách<i class="fa fa-angle-right"></i></a>
+                                    <a href="tuixach" title="Túi xách">Túi xách<i class="fa fa-angle-right"></i></a>
     
                                     <ul class="ul_content_right_1">
     
@@ -239,7 +239,7 @@
                                 </li>
 
                                 <li class="nav_item lv1">
-                                    <a href="/frontpage" title="Sản phẩm mới">Sản phẩm mới<i class="fa fa-angle-right"></i></a>
+                                    <a href="sanphammoi" title="Sản phẩm mới">Sản phẩm mới<i class="fa fa-angle-right"></i></a>
     
                                     <ul class="ul_content_right_1">
     
@@ -261,18 +261,18 @@
     
     
                                 <li class="nav_item lv1">
-                                    <a href="archive_product.blade.php" title="Sản phẩm khuyến mãi">Sản phẩm khuyến mãi</a>
+                                    <a href="sanphamkhuyenmai" title="Sản phẩm khuyến mãi">Sản phẩm khuyến mãi</a>
                                 </li>
     
     
     
                                 <li class="nav_item lv1">
-                                    <a href="/" title="Sản phẩm nổi bật">Sản phẩm nổi bật</a>
+                                    <a href="sanphamnoibat" title="Sản phẩm nổi bật">Sản phẩm nổi bật</a>
                                 </li>
     
     
                                 <li class="nav_item lv1">
-                                    <a href="/collections/all" title="Xem thêm">Xem thêm</a>
+                                    <a href="sanpham" title="Xem thêm">Xem thêm</a>
                                 </li>
                             </ul>
                         </div>
@@ -415,7 +415,7 @@
                                         </li>
   
                                         <li class="dropdown-submenu nav-items nav-item-lv2">
-                                            <a class="nav-link" href="/frontpage">Sản phẩm mới </a>
+                                            <a class="nav-link" href="sanphammoi">Sản phẩm mới </a>
                                             <i class="fa fa-angle-right" data-toggle="dropdown"></i>
                                             <ul class="dropdown-menu border-box">
     
@@ -440,13 +440,13 @@
     
     
                                         <li class="nav-item-lv2">
-                                            <a class="nav-link" href="archive_product.blade.php">Sản phẩm khuyến mãi</a>
+                                            <a class="nav-link" href="sanphamkhuyenmai">Sản phẩm khuyến mãi</a>
                                         </li>
     
     
     
                                         <li class="nav-item-lv2">
-                                            <a class="nav-link" href="/">Sản phẩm nổi bật</a>
+                                            <a class="nav-link" href="sanphamnoibat">Sản phẩm nổi bật</a>
                                         </li>
     
     
